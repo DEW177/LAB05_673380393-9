@@ -1,7 +1,7 @@
 package com.example.kittipat673380393_9;
 
 public class Coffee {
-
+//
     private Long id;
     private String name;
     private double price;
